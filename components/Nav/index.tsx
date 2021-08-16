@@ -21,21 +21,21 @@ function Nav() {
             <div tw="xl:flex items-center justify-center space-x-20 text-2xl flex-1 hidden ">
                 <Link href="/">
                     <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`, router.asPath === "/" && tw`color[var(--text-main)]`]} >
-                        Home</span>
+                        Telegram</span>
                 </Link>
                 <Link href="/about">
                     <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`, router.asPath === "/about" && tw`color[var(--text-main)]`]}>
-                        About
+                        Discord
                     </span>
                 </Link>
                 <Link href="/blog">
                     <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`, router.asPath === "/blog" && tw`color[var(--text-main)]`]} >
-                        Blog
+                    Twitter
                     </span>
                 </Link>
                 <Link href="/portfolio">
                     <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`, router.asPath === "/portfolio" && tw`color[var(--text-main)]`]}>
-                        Portfolio
+                        Docs
                     </span>
                 </Link>
 
@@ -50,21 +50,21 @@ function Nav() {
                 <div tw="w-full h-full flex flex-col space-y-8 text-2xl font-bold pt-32 px-8">
                     <Link href="/">
                         <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`,]} >
-                            Home</span>
+                        Telegram</span>
                     </Link>
                     <Link href="/about">
                         <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`,]}>
-                            About
+                            Discord
                         </span>
                     </Link>
                     <Link href="/blog">
                         <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`,]} >
-                            Blog
+                            Twitter
                         </span>
                     </Link>
                     <Link href="/portfolio">
                         <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`,]}>
-                            Portfolio
+                        Docs
                         </span>
                     </Link>
 
