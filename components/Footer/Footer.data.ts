@@ -1,15 +1,15 @@
 export const footerdata = [
     {
         name: "telegram",
-        link: "https://t.me/"
+        link: "https://t.me/TycheProtocol"
     },
     {
         name: "discord",
-        link: "https://discord.gg/"
+        link: "https://discord.gg/3dNPHRBRau"
     },
     {
-        name: "medium",
-        link: "https://medium.com/"
+        name: "twitter",
+        link: "https://twitter.com/TycheProtocol"
     },
     {
         name: "docs",
