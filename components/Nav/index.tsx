@@ -19,16 +19,16 @@ function Nav() {
             </div>
 
             <div tw="xl:flex items-center justify-center space-x-20 text-2xl flex-1 hidden ">
-                <Link href="/">
+                <Link href="https://t.me/TycheProtocol">
                     <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`, router.asPath === "/" && tw`color[var(--text-main)]`]} >
                         Telegram</span>
                 </Link>
-                <Link href="/about">
+                <Link href="https://discord.gg/3dNPHRBRau">
                     <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`, router.asPath === "/about" && tw`color[var(--text-main)]`]}>
                         Discord
                     </span>
                 </Link>
-                <Link href="/blog">
+                <Link href="https://twitter.com/TycheProtocol">
                     <span css={[tw`color[var(--text-sub)] hover:text-white cursor-pointer`, router.asPath === "/blog" && tw`color[var(--text-main)]`]} >
                     Twitter
                     </span>
