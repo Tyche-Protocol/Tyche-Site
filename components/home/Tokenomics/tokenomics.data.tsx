@@ -12,7 +12,7 @@ export const tokenomics = [
     {
         amount: "12%",
         title: "Initial Liquidity",
-        desc: "1,000,000 $TYCHE supplied on Spiritswap as TYCHE-FTM pair."
+        desc: "1,000,000 $TYCHE supplied on Fantom as TYCHE-FTM pair."
     },
     {
         amount: "3%",
