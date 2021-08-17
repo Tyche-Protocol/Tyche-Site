@@ -42,7 +42,7 @@ function Nav() {
             </div>
 
             <div tw="hidden md:flex">
-                <Button text="Enter App" link="/" />
+                <Button text="Lanching Soon" link="https://discord.gg/3dNPHRBRau" />
             </div>
 
             <div css={[tw`inset-0 fixed transform margin-left[100%] duration-500 background-color[var(--bg-dark)] rounded-md  z-10`, isOpen && tw` ml-0`]}>

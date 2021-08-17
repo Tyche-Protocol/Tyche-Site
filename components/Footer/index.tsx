@@ -33,7 +33,7 @@ function Footer() {
             </div>
 
             <div tw="hidden md:flex">
-                <Button text="Enter App" link="/" />
+                <Button text="Lanching Soon" link="https://discord.gg/3dNPHRBRau" />
             </div>
 
 
