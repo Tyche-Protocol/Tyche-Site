@@ -12,7 +12,7 @@ function Tokenomics() {
             </RevealText>
             <h2 tw="text-3xl md:text-5xl font-bold color[var(--text-main)] ">A Retroactive Launch</h2>
             <p tw="max-w-6xl text-center text-xl text-white">
-                The TYCHE token is used to reimburse holders with the gas fees they use on the platform an rewards stakers with a perrcentage of the fees made form the platform. We want to release a working product before launching a sale to set a standard for more projects to follow.
+                The TYCHE token is used to reimburse holders with the gas fees they use on the platform and rewards stakers with a percentage of the fees made form the platform. We want to release a working product before launching a sale to set a standard for more projects to follow.
             </p>
 
             <div tw="flex flex-col  justify-center lg:(flex-row )  flex-wrap max-w-7xl">
