@@ -1,5 +1,5 @@
 export const indexData = [
     {
-        value: "5 EFTs",
+        value: "5+ ETF's",
     }
 ]
