@@ -2,7 +2,7 @@ export const tokenomics = [
     {
         amount: "15%",
         title: "Farming Rewards",
-        desc: "6,000,000 styche emitted over 2 years in staking an LP farms."
+        desc: "6,000,000 $TYCHE emitted over 2 years in staking an LP farms."
     },
     {
         amount: "35%",
