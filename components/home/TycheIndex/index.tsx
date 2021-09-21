@@ -20,7 +20,7 @@ function TycheIndex() {
                     </p>
 
                     <div tw="grid grid-cols-2 gap-4">
-                        <IndexCard value="5 ETFs" label="Diversify" color="red" />
+                        <IndexCard value="5 EFTs" label="Diversify" color="red" />
                         <IndexCard value="No Gas" label="Sub-zero Gas" color="blue" />
                         <IndexCard value="On-chain" label="All on chain" color="yellow" />
                     </div>
